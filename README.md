@@ -31,11 +31,11 @@ An algorithm is a finite set of instructions that if followed accomplishes a par
 
 An algorithm must satisfies the following criteria.
 
-* <span style="color:red">Input</span>: zero or more inputs are supplied.
-* <span style="color:red">Output</span>: at least one output should be produced as results of procedure.
-* <span style="color:red">Definiteness</span>: each instruction should be clear and unambiguous (i.e.) not more than one meaning.
-* <span style="color:red">Finiteness</span>: if all the instructions are traced in algorithm, then for all cases the algorithm must terminate after a finite number of steps.
-* <span style="color:red">Effectiveness</span>: every instruction must be very basic so that it can be carried out briefly said "Operation must be feasible".
+* **Input **: zero or more inputs are supplied.
+* **Output**: at least one output should be produced as results of procedure.
+* **Definiteness**: each instruction should be clear and unambiguous (i.e.) not more than one meaning.
+* **Finiteness**: if all the instructions are traced in algorithm, then for all cases the algorithm must terminate after a finite number of steps.
+* **Effectiveness**: every instruction must be very basic so that it can be carried out briefly said "Operation must be feasible".
 
  
 
