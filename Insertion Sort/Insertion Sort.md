@@ -1,5 +1,5 @@
 # Insertion Sort
-![insertionSort1](https://github.com/dks301/Algorithm/images/insertionSort1.PNG)
+![insertionSort1](https://github.com/dks301/Algorithm/blob/master/images/insertionSort1.PNG)
 
 * Insertion Sort란 위 이미지처럼 자료 배열의 모든 요소를 앞에서 부터 차례대로 비교하여 삽입함으로써 정렬을 완성하는 알고리즘이다.
 
