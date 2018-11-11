@@ -9,7 +9,9 @@
 >
 > * Introduction to Algorithms, 3rd edition by Cormen, Leiserson, Rivest, and Stein, The MIT Press, 2009
 
+<br>
 
+<br>
 
 ## What is an Algoritm?
 
@@ -21,7 +23,9 @@ An algorithm is a finite set of instructions that if followed accomplishes a par
 
 * A tool for soving a well-specified computational problem. 
 
+<br>
 
+<br>
 
 ## Desirable Algorithm
 
