@@ -25,7 +25,7 @@ An algorithm is a finite set of instructions that if followed accomplishes a par
 
 * A tool for soving a well-specified computational problem. 
 
-***
+
 <br>
 
 
@@ -40,7 +40,7 @@ An algorithm must satisfies the following criteria.
 * **Finiteness**: if all the instructions are traced in algorithm, then for all cases the algorithm must terminate after a finite number of steps.
 * **Effectiveness**: every instruction must be very basic so that it can be carried out briefly said "Operation must be feasible".
 
-***
+
 <br>
 
 
@@ -124,6 +124,6 @@ An algorithm must satisfies the following criteria.
 * 2-CNF(2-SAT의 일종)
 * 서로소 집합(Disjoint Set)
 * * 순위 정하기(휴리스틱의 일종)
-  * 경로 압축(휴히스틱의 일종, Path Compression)
+  * 경로 압축(휴리스틱의 일종, Path Compression)
 
 ***
