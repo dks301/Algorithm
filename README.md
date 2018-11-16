@@ -12,6 +12,9 @@
 
 ***
 <br>
+
+
+
 ## What is an Algoritm?
 
 An algorithm is a finite set of instructions that if followed accomplishes a particular task.
@@ -36,6 +39,9 @@ An algorithm must satisfies the following criteria.
 
 ***
 <br>
+
+
+
 ## Types of Algorithms 
 
 * 재귀호출, 백트래킹
