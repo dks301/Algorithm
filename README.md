@@ -11,15 +11,7 @@
 > * Introduction to Algorithms, 3rd edition by Cormen, Leiserson, Rivest, and Stein, The MIT Press, 2009
 
 ***
-
-
-
-* * 
-
 <br>
-
-<br>
-
 ## What is an Algoritm?
 
 An algorithm is a finite set of instructions that if followed accomplishes a particular task.
@@ -31,13 +23,7 @@ An algorithm is a finite set of instructions that if followed accomplishes a par
 * A tool for soving a well-specified computational problem. 
 
 ***
-
-
-
 <br>
-
-<br>
-
 ## Desirable Algorithm
 
 An algorithm must satisfies the following criteria.
@@ -49,13 +35,7 @@ An algorithm must satisfies the following criteria.
 * **Effectiveness**: every instruction must be very basic so that it can be carried out briefly said "Operation must be feasible".
 
 ***
-
-
-
- <br>
-
 <br>
-
 ## Types of Algorithms 
 
 * 재귀호출, 백트래킹
@@ -138,4 +118,3 @@ An algorithm must satisfies the following criteria.
   * 경로 압축(휴히스틱의 일종, Path Compression)
 
 ***
-
