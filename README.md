@@ -27,6 +27,9 @@ An algorithm is a finite set of instructions that if followed accomplishes a par
 
 ***
 <br>
+
+
+
 ## Desirable Algorithm
 
 An algorithm must satisfies the following criteria.
