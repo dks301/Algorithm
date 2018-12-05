@@ -2,14 +2,15 @@
 
 내가 배운 알고리즘 개념을 정리합니다.
 
-* What is an Algorithm?
-* Desirable Algorithm
-* Types of Algorithms
+1. What is an Algorithm?
+
+2. Desirable Algorithm
+
+3. Types of Algorithms
 
 > Text books
 >
 > * Introduction to Algorithms, 3rd edition by Cormen, Leiserson, Rivest, and Stein, The MIT Press, 2009
-
 
 ***
 
