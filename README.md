@@ -2,11 +2,11 @@
 
 내가 배운 알고리즘 개념을 정리합니다.
 
-__1. What is an Algorithm?
+__1. What is an Algorithm?__
 
-__1. Desirable Algorithm
+__1. Desirable Algorithm__
 
-__1. Types of Algorithms
+__1. Types of Algorithms__
 
 > Text books
 >
