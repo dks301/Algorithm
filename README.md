@@ -4,9 +4,9 @@
 
 1. What is an Algorithm?
 
-2. Desirable Algorithm
+1. Desirable Algorithm
 
-3. Types of Algorithms
+1. Types of Algorithms
 
 > Text books
 >
