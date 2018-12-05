@@ -118,7 +118,7 @@ __Example 2:__
 
 No Solutions!
 
-__Theorem: __
+__Theorem:__
 
 If b % d  = 0, then there are the solutions. If not, there is no solution.  
 
